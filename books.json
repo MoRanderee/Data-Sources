@@ -1,0 +1,33 @@
+{
+    "books": [{
+        "title": "Ego is the enemy",
+        "author": "Ryan Holiday",
+        "year": "2016",
+        "edition": 1
+    }, {
+        "title": "The obstacle is the way",
+        "author": "Ryan Holiday",
+        "year": "2014",
+        "edition": 1
+    }, {
+        "title": "Lives of the stoics",
+        "author": "Ryan Holiday",
+        "year": "2020",
+        "edition": 1
+    }, {
+        "title": "The Millionaire Fastlane",
+        "author": "M.J. DeMarco",
+        "year": "2011",
+        "edition": 1
+    }, {
+        "title": "Unscripted",
+        "author": "M.J. DeMarco",
+        "year": "2017",
+        "edition": 2
+    }, {
+        "title": "Psycho-Cybernetics",
+        "author": "Maxwell Maltz",
+        "year": "2015",
+        "edition": 2
+    }]
+    }
